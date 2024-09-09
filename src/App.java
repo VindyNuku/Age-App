@@ -3,7 +3,7 @@ public class App {
                
         System.out.println("Age App");
 
-        int age =50;
+        int age =75;
 
         /*if (age>0 && age <18)  // AgeApp Exercise 2
         {
