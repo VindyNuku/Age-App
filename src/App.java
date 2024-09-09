@@ -3,9 +3,9 @@ public class App {
                
         System.out.println("Age App");
 
-        int age =75;
+        int age =18;
 
-        /*if (age>0 && age <18)  // AgeApp Exercise 2
+        if (age>0 && age <18)  // AgeApp Exercise 2
         {
             System.out.println("You are Underage.");
         }
@@ -16,7 +16,7 @@ public class App {
         }
 
             System.out.println("Press space to exit.");
-            */
+            
 
            
         /*if (age>0 && age<18) // AgeApp Exercise 3
@@ -32,7 +32,7 @@ public class App {
             System.out.println("You are an adult.");
         } */
 
-        if (age>0 && age<18)  // AgeApp Exercise 4 & 5
+        /* if (age>0 && age<18)  // AgeApp Exercise 4 & 5
         {
             System.out.println("You are underage.");
             if (age==10)
@@ -76,7 +76,7 @@ public class App {
                     System.out.println("Congratulations!");
                 }
             }
-        }     
+        }     */
          
         
 
